@@ -3,12 +3,7 @@
   <artifactId>tools.deps.alpha</artifactId>
   <version>0.7.550-SNAPSHOT</version>
   <name>tools.deps.alpha</name>
-
-  <parent>
-    <groupId>org.clojure</groupId>
-    <artifactId>pom.contrib</artifactId>
-    <version>0.2.2</version>
-  </parent>
+  <groupId>lambdaisland</groupId>
 
   <developers>
     <developer>
